@@ -1,0 +1,20 @@
+[
+    {
+      "nome": "Batom Matte Vermelho Intenso",
+      "preco": 49.90,
+      "imagem": "img/batommatte.png",
+      "descricao": "Batom de longa duração com acabamento matte e cor vibrante."
+    },
+    {
+      "nome": "Base Líquida Natural Glow",
+      "preco": 89.90,
+      "imagem": "img/base-liquida-soft-blend-ruby-rose-f30.webp",
+      "descricao": "Base líquida com cobertura média e acabamento luminoso."
+    },
+    {
+      "nome": "Máscara de Cílios Volume Extra",
+      "preco": 59.90,
+      "imagem": "Img/mascara.webp",
+      "descricao": "Máscara preta intensa que proporciona volume e definição."
+    }
+  ]
